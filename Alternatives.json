@@ -8,6 +8,7 @@
   {
     "Id": "2",
     "Name": "CASTELLO",
-    
+    "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Castello.jpg",
+    "ProductId": "1"
   }
 ]
