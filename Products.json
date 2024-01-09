@@ -4,25 +4,11 @@
     "Name": "PAPA JOHN'S",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Papa%20John's.jpg",
     "Proof": "https://en.wikipedia.org/wiki/List_of_restaurants_in_Israel#Foreign_chains",
-    "Alternatives": [
-      {
-        "Id": "1",
-        "Name": "NED'S PIZZA",
-        "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Ned's%20Pizza.jpg"
-      }
-    ]
   },
   {
     "Id": "2",
     "Name": "PIZZA HUT",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Pizza%20Hut.jpg",
     "Proof": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html",
-    "Alternatives": [
-      {
-        "Id": "2",
-        "Name": "NED'S PIZZA",
-        "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Ned's%20Pizza.jpg"
-      }
-    ]
   }
 ]
