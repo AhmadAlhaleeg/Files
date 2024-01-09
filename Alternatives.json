@@ -16,5 +16,11 @@
     "Name": "QAYSAR PIZZA",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/AlternativesImages/Qaysar%20Pizza.jpg",
     "ProductId": "1"
+  },
+  {
+    "Id": "4",
+    "Name": "LUIGIS PIZZA",
+    "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/AlternativesImages/Luigis%20Pizza.jpg",
+    "ProductId": "1"
   }
 ]
