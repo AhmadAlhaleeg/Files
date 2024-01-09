@@ -16,6 +16,11 @@
     "Name": "PIZZA HUT",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Pizza%20Hut.jpg",
     "Proof": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html",
-    "Alternative": "QAYSAR PIZZA"
+    "Alternatives": [
+      {
+        "Name": "NED'S PIZZA",
+        "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Ned's%20Pizza.jpg"
+      }
+    ]
   }
 ]
