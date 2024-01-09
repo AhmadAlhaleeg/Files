@@ -10,5 +10,11 @@
     "Name": "PIZZA HUT",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Pizza%20Hut.jpg",
     "Proof": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
+  },
+  {
+    "Id": "3",
+    "Name": "Taco Bell",
+    "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/ProductsImages/TacoBell.jpg",
+    "Proof": "https://www.calcalistech.com/ctech/articles/0,7340,L-3901254,00.html"
   }
 ]
