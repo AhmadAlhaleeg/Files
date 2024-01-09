@@ -4,7 +4,12 @@
     "Name": "PAPA JOHN'S",
     "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Papa%20John's.jpg",
     "Proof": "https://en.wikipedia.org/wiki/List_of_restaurants_in_Israel#Foreign_chains",
-    "Alternative": "CASTELLO"
+    "Alternatives": [
+      {
+        "Name": "NED'S PIZZA",
+        "Image": "https://raw.githubusercontent.com/AhmadAlhaleeg/Files/main/Ned's%20Pizza.jpg"
+      }
+    ]
   },
   {
     "Id": "2",
